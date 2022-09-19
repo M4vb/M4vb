@@ -25,5 +25,5 @@
 <p><a href="https://www.buymeacoffee.com/Mavb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mavb" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m4vb&show_icons=true&theme=radical" alt="m4vb" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=m4vb&show_icons=true&theme=radical" alt="m4vb" /></p>
 
