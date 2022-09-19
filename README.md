@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4vb&label=Profile%20views&color=0e75b6&style=flat" alt="m4vb" /> </p>
 
-- 🔭 I’m currently working on [Password Manager](https://github.com/M4vb/password-manager)
+-   🔭 I’m currently working on [Password Manager](https://github.com/M4vb/password-manager)
 
-- 🌱 I’m currently learning **NodeJS & MongoDB**
+-   🌱 I’m currently learning **NodeJS & MongoDB**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Responsive Design, React, Redux, SQL, PHP, TypeScript**
+-   💬 Ask me about **HTML, CSS, JavaScript, Python, Responsive Design, React, Redux, SQL, PHP, TypeScript**
 
-- 📫 How to reach me **mangelvargasb@gmail.com**
+-   📫 How to reach me **mangelvargasb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +24,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Mavb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mavb" /></a></p><br><br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=m4vb&show_icons=true&theme=radical" alt="m4vb" /></p>
-
+<a href="https://github.com/M4vb">
+	<img src="https://github-readme-stats.vercel.app/api?username=m4vb&show_icons=true&theme=radical" alt="m4vb" />
+</a>
