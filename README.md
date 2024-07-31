@@ -2,11 +2,11 @@
 
 ### I am a passionate web developer, I like to learn about cybersecurity and programming
 
--   🔭 I'm currently working on [Music Player](https://github.com/M4vb/web-music-player).
--   🌱 I’m currently learning **NodeJS & MongoDB**
+-   🔭 I'm currently working on my [Curriculum Vitae](https://github.com/M4vb/curriculum-vitae).
+-   🌱 I’m currently learning **Laravel**
 -   💬 Ask me about **HTML, CSS, JavaScript, Python, Responsive Design, React, Redux, SQL, PHP, TypeScript**
 -   😄 Pronouns: he/him
-<!-- -   📫 How to reach me: [@MavbDev](https://twitter.com/MavbDev) -->
+<!-- -   📫 How to reach me: [@migv_rg](https://instagram.com/mig_rg) -->
 
 <a href="https://github.com/M4vb">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=m4vb&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="M4vb's Github Stats" />
